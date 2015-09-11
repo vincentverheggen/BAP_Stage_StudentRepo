@@ -1,5 +1,5 @@
 # Gitbook installatie handleiding
-
+Je scriptie dient geschreven te worden in markdown en steeds ook naar een pdf geconverteerd te worden. We gaan hierbvoor [gitbook](https://github.com/GitbookIO/gitbook) gebruiken (zie voorbeeld in  je studentrepo in de map Scriptie)
 ## Git installatie en setup
 Installeer eerst Git via https://git-scm.com/downloads 
 Zorg ervoor dat het ``git.exe`` commando overal beschikbaar is. Test dit door een command prompt (Start=>Run>cmd) te openen en vervolgens git [enter] in te voeren. Indien dit werkt kan je vervolgens verder gaan naar Gitbook installatie.
@@ -15,13 +15,15 @@ https://nodejs.org/download/
 
 Zeker npm package manager kiezen. 
 
-Dan [deze uitleg](https://github.com/GitbookIO/gitbook) volgen.
+Voort vervolgens volgende opdracht uit:  ``npm install gitbook-cli -g``
+
+Lees vervolgen [deze](https://github.com/GitbookIO/gitbook#how-to-use-it) tekst en experimenteer wat.
+**Merk op dat git init niet meer hoeft in je scriptie map. Test dit best ook even in eigen map zodat je zeker bent dat alles goed werkt.**
 
 
 ## Pdf Generatie
 
 Het commando ``gitbook pdf`` kan je gebruiken om je tekst naar een pdf te outputten. Hiervoor heb je volgens de gitbookdocumentatie ebook-convert nodig. De eenvoudigste manier om dit te installeren is door eenvoudigweg de open source [ebook manager "Calibre"](http://calibre-ebook.com/download) te installeren. Merk op dat dit niet zal werken indien je de portable versie van Calibre installeert.
-
 
 # En nu?
 
