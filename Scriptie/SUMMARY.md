@@ -1,4 +1,5 @@
-#Summary
+# Summary
 
-*Hoofdstuk 0
-  *[Setup gitbook](Chapter0/installatieGitBook.md)
+* Hoofdstuk 0
+  * [Setup gitbook](Chapter0/installatieGitBook.md)
+  
