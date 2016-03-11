@@ -5,6 +5,7 @@
 * Goede progressie
 * Probleem x opgelost
 ** Bleek aan module Y te liggen
+
 ### Dinsdag
 * Trage vooruitgang
 * Probleem x toch niet opgelost
