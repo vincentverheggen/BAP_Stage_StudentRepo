@@ -18,6 +18,7 @@ te definiëren.
 In het tweede en derde voortgangsverslag worden de technische obstakels
 beschreven, de planning voor de komende weken en eventuele extra informatie.
 
+* **U past de placeholders aan voor de nodige toevoegingen**
 * **Deze voortgansverslagen worden in markdown geschreven en geupload naar GitHub**
 * **Voor elke relevante update dient u de AP stage promoter op hoogte brengen via mail**
 

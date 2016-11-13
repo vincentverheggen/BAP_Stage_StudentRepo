@@ -1,6 +1,4 @@
-# Logboek **Joske Vermeulen**
-<!--voorbeeld data volgt:-->
-## Week 1 (15/5/15 - 21/5/15)
+# Logboek Week #1 (30/1/16 - 3/1/16)
 ### Maandag
 * Goede progressie
 * Probleem x opgelost
