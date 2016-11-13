@@ -1,20 +1,14 @@
-Hierin hou je scriptie bij (in markdown geschreven).
-*Meer details omtrent scriptie volgen in toekomstige commit (vergeet niet te pullen dus)*
+#Introductie
 
+Deze file zal de eerste pagina worden in je uiteindelijke scriptie. Voor de
+scriptie maken we gebruik van gitbook. Dit een technologie die ons toelaat om
+scriptie te hosten via git, het voordeel hiervan is de verzameling van alle
+bronbestanden en overige stage documenten in en een repo. GitBook voorziet ook
+een gratis online hosting van het uiteindelijke book. Het Stage Syllabus is
+hier een voorbeeld van. [(zie hier)](https://luytsm.gitbooks.io/bap-stage-syllabus/content/)
 
-Deze map zal gebruikt worden ter beoordeling van
-* Je tussentijdse scriptie
-* Je finale scriptie
-
-
-# Cover
-* Open het bestand cover.pptx (in powerpoint)
-  * Alternatieve hi-res Cover (dank aan Oliver Hofkens): Open het bestand cover.xcf in de gratis, opensource image editor [Gimp](https://www.gimp.org/)
-* Vervang "Scriptietitel" door jouw finale scriptietitel.
-  * Indien je titel te lang is, gelieve dan manueel een enter toe te voegen. Het lettertype mag maximaal 8pt verkleind worden.
-* Vervang "naam student 1, naam student 2" door jouw naam(en) 
-* Bewaar het pptx/xcf bestand via Opslaan als naar een "JPEG"-bestand met naam cover.jpg
-* Plaats dit nieuwe bestand in de rootmap van je scriptie (daar waar ook SUMMARY.MD staat)
-* Deze cover wordt nu automatisch toegevoegd aan je pdf-export van gitbook
+We voorzien een kleine introductie in de werking van GitBook, het is de
+verantwoordelijkheid van de student om vaardig te worden in het gebruik van
+GitBook.
 
 

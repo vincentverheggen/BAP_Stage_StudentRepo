@@ -1,5 +1,5 @@
 # Summary
-
-* Hoofdstuk 0
-  * [Setup gitbook](Chapter0/installatieGitBook.md)
+* [Introductie](./README.md)
+* [Gitbook Installatie](GitbookInstallatie/README.md)
+* [Gitbook 101](Gitbook101/README.md)
   
