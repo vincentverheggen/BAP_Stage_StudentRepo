@@ -14,7 +14,7 @@ eind te brengen. -->
 
 ## Keywords
 <!--Noteer hier enkele relevante keywords van het onderwerp-->
-<!--Minimum keywords-->
+<!--Minimum 5 keywords-->
 
 ## Milestones
 <!--Geef hier kort weer wat te behalen milestones zijn per week-->
