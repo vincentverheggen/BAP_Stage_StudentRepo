@@ -10,11 +10,11 @@ plaatsgevonden-->
 bereiken tegen het eind van de BAP? Maak een analyse van het
 onderwerp/resultaat. Geef de mogelijke stappen om je BAP/Stage tot een goed
 eind te brengen. --> 
-<!--Minimum 3000 woorden-->
+<!--Minimum 5000 tekens-->
 
 ## Keywords
 <!--Noteer hier enkele relevante keywords van het onderwerp-->
-<!--Minimum 3000 woorden-->
+<!--Minimum keywords-->
 
 ## Milestones
 <!--Geef hier kort weer wat te behalen milestones zijn per week-->
