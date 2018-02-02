@@ -1,7 +1,6 @@
-Voorbeeld repo.
-Gelieve deze minimale mappenstructuur te volgen.
-Plaats in dit document volgende informatie:
-* Je naam
-* Titel bachelorproef
+* Vincent Verheggen
+* Titel bachelorproef ?
 * Promotors
-* Abstract/pitch
+ * De begeleidende lector: Sven Maes
+ * De begeleidende mentor: Mark Bergers
+* Abstract/pitch ?
